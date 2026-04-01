@@ -1,0 +1,6 @@
+requierments:
+pandas
+numpy
+matplot
+sikit
+sea born
